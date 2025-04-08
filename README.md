@@ -46,14 +46,12 @@ The dataset includes the following features:
 ## Installation
 1.  **Download the dataset:**
 
-    Download the `thyroid_cancer_risk_data.csv` dataset from Kaggle and place it in the same directory as the script.
+    Download the dataset from Kaggle.These is the link of the dataset [here](https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset).
 
 ## Usage
 
 1.  **Run the model:**
-
-    Execute the Python script to train and evaluate the models. The script will perform the following steps:
-
+   
     * Load and preprocess the dataset.
     * Convert categorical features to numerical.
     * Split the dataset into training and testing sets.
@@ -106,13 +104,4 @@ The models' performances are evaluated on the test set, and the following metric
 * **Neural Network:**
     * Testing Accuracy: 78.97%
 
-## Future Improvements
 
-* Experiment with different model architectures and hyperparameters.
-* Implement data augmentation techniques.
-* Explore feature engineering to improve model performance.
-* Add cross-validation for robust evaluation.
-* Increase the number of epochs for the Neural Network.
-* Normalize numerical features.
-* Balance the dataset.
-* Try different Neural Network optimizers.
