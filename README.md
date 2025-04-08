@@ -8,7 +8,7 @@ This project aims to develop and compare the performance of Logistic Regression 
 
 ## Dataset
 
-The dataset used is the "thyroid_cancer_risk_data.csv" dataset, available on Kaggle.
+The dataset used is the "thyroid_cancer_risk_data.csv" dataset, available on Kaggle.These is the link of the dataset [here](https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset).
 
 ## Features
 
@@ -46,7 +46,7 @@ The dataset includes the following features:
 ## Installation
 1.  **Download the dataset:**
 
-    Download the dataset from Kaggle.These is the link of the dataset [here](https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset).
+    Download the dataset from Kaggle.
 
 ## Usage
 
